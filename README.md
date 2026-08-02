@@ -1,6 +1,5 @@
 # Hi, I'm Hamza Oumour
-
- ![Profile Views](https://komarev.com/ghpvc/?username=hamzaoumourca-source&label=Profile%20views&color=0e75b6&style=flat)
+ 
 Self-taught developer passionate about Embedded Systems, IoT, software development, and FinTech.
 
 Former Fiverr freelancer specializing in Arduino, Embedded Systems, and MVP prototyping.
@@ -40,4 +39,8 @@ This GitHub account serves as an archive of personal projects, experiments, and 
 - [M-DuinoCore – Indiegogo Campaign](https://www.indiegogo.com/en/projects/hamzaoumour/m-duinocore-it-s-more-than-an-arduino-in-a-chip#/)
 - [Tremor Watch – PMU Engineering Project Report](https://www.pmu.edu.sa/attachments/academics/pdf/udp/coe/dept/me/fall2019_2020/designing_tremor_watch_report.pdf)
 - [Email](hamza.oumour.ca@gmail.com)
+
+##
+
+![Profile Views](https://komarev.com/ghpvc/?username=hamzaoumourca-source&label=Profile%20views&color=0e75b6&style=flat)
 
